@@ -11,8 +11,11 @@ As Udacity said in this project requirement, Testing is an important part of the
 ## How to run
 
 git clone https://mbuguaellen.github.io/feedreadertesting/
+
 open feed-reader-testing repository.
+
 open index.html with your browser.
+
 There should be 7 specs,0 failures at the bottom of the html page.
 
 ### Testing Parts:
