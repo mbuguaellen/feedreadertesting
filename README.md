@@ -8,14 +8,12 @@ It is a web-based application that reads RSS feeds. The main objective is implem
 As Udacity said in this project requirement, Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". This is when developers write tests first, before they ever start developing their application. All the tests initially fail and then they start writing application code to make these tests pass.
 
 
-## How to run the application?
+## How to run
 
-    git clone https://mbuguaellen.github.io/feedreadertesting/
-
-    Open feed-reader-testing repository.
-    Open index.html with your browser.
-    There should be 8 specs, 0 failures at the bottom of the html page.
-
+git clone https://mbuguaellen.github.io/feedreadertesting/
+open feed-reader-testing repository.
+open index.html with your browser.
+There should be 7 specs,0 failures at the bottom of the html page.
 
 ### Testing Parts:
 
