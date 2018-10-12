@@ -10,8 +10,12 @@ As Udacity said in this project requirement, Testing is an important part of the
 
 ## How to run the application?
 
-In index.html you can see all the feeds and the up left button that opens a left side menu bar. At the bottom, you can find Jasmin testing results. 
-All testing has been implemented in /jasmine/spec/feedreader.js
+    git clone https://github.com/bostonhuman/feed-reader-testing.git
+
+    Open feed-reader-testing repository.
+    Open index.html with your browser.
+    There should be 8 specs, 0 failures at the bottom of the html page.
+
 
 ### Testing Parts:
 
