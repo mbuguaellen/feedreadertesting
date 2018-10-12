@@ -10,7 +10,7 @@ As Udacity said in this project requirement, Testing is an important part of the
 
 ## How to run the application?
 
-    git clone https://github.com/bostonhuman/feed-reader-testing.git
+    git clone https://mbuguaellen.github.io/feedreadertesting/
 
     Open feed-reader-testing repository.
     Open index.html with your browser.
